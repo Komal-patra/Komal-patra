@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Komal-patra
-- 👀 I’m interested in Data Science and Data Engineering Domain
-- 🌱 I’m currently learning about Data
 - 💞️ I’m looking to collaborate on LinkedIn and GitHub
 - 📫 You can reach me through my email : komalpatra1998@gmail.com.
 
